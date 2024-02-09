@@ -1,0 +1,33 @@
+#event_66 p{
+    color: white;
+    font-weight: bolder;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+#event_66{
+    background-image: linear-gradient(rgb(0 0 0 / 85%), rgb(25 25 25 / 67%)),
+    url("https://www.francebleu.fr/s3/cruiser-production/2023/06/66d1c321-9564-42a3-a6f3-8b6161d55a8c/1200x680_sc_maxpeopleworldtwo212119.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#secret_adress{
+    color: red;
+}
+
+
+#event_73 p{
+    color: white;
+    font-weight: bolder;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+#event_73{
+    background-image: linear-gradient(rgb(0 0 0 / 85%), rgb(25 25 25 / 67%)),
+    url("https://compiegne-geek-convention.fr/wp-content/uploads/2019/06/B58oBXNCEAAqnwJ.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
